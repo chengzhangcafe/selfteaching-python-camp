@@ -1,2 +1,2 @@
 a='hello world'
-print(hello world)
+print(a)
